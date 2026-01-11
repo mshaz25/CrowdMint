@@ -1,0 +1,32 @@
+{
+  "name": "crowdfunding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashfx/Crowdfunding-Dapp.git"
+  },
+  "author": "hashfx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hashfx/Crowdfunding-Dapp/issues"
+  },
+  "homepage": "https://github.com/hashfx/Crowdfunding-Dapp#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.8.3",
+    "waffle": "^0.0.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
+}

@@ -1,0 +1,15 @@
+HOW TO RUN THE PROJECT!!!
+
+# 1. Start Hardhat local blockchain 
+# In a new terminal tab
+npx hardhat node
+
+# 2. Deploy the contract to local network
+# In a new terminal tab
+npx hardhat run scripts/deploy.js --network localhost
+
+3. Initialization of Frontend
+# In a new terminal tab
+cd client
+npm install
+npm start
